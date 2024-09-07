@@ -1,0 +1,312 @@
+*{
+    margin:0;
+    font-family: Arial, Helvetica, sans-serif;
+    border: border-box;
+
+}
+
+.bg-conatiner{
+    background-image: url(images/header-image.png);
+            
+    height: 100vh;
+    width: 100wh;
+
+    
+}
+
+.head{
+    padding: 30px;
+    padding-left: 70px;
+    padding-right: 70px;
+
+}
+
+.logo{
+    height:50px;
+
+}
+
+.b1{
+    height:33px;
+    width:100px;
+    background-color: transparent;
+    font-family:  Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    font-weight:400;
+    font-size:12px;
+    border-color: white;
+    border-style: solid;
+    border-width:1px;
+    border-radius: 5px;
+
+}
+.b2{
+    height:35px;
+    width:80px;
+    background-color: red;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight:bold;
+    font-size:12px;
+    border-radius: 5px;
+    color:white;
+    border-style: solid;
+    border-width:1px;
+    border: none;
+
+}
+.centero{
+    padding:210px;
+}
+
+.heading{
+    color:white;
+    font-size: 50px;
+    font-weight:bold;
+    text-align: center;
+    font-weight:bold;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding-bottom: 7px;
+    
+}
+.heading2{
+    color:white;
+    text-align: center;
+    font-size: 18px;
+    padding-bottom: 10px;
+    
+
+}
+
+.heading3{
+    color:white;
+    text-align: center;
+    font-size: 16px;
+}
+
+.input-class{
+    height:50px;
+    width:300px;
+    padding: 20px;
+    margin-right:10px;
+    border-radius: 5px;
+    border:none;
+
+}
+
+.getStarted{
+    background-color: red;
+    color:white;
+    padding:15px;
+    height:50px;
+    border-radius: 5px;
+    border:none;
+
+}
+
+.bg2{
+    background-color: black;
+    height: 100%;
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-top: 40px;
+    
+}
+.pg2head{
+    font-size:24px;
+    color:white;
+    font-weight: bold;
+
+}
+
+.bgkalkiposter{
+    background-image: url(images/Kalki\ Bhairavaa.jpg);
+    height:210px;
+    width:px;
+    background-size: cover;
+}
+
+.kalkitile{
+    height:50px;
+
+}
+
+.bg-box{
+    background-color: rgb(34, 34, 34);
+    height:100%;
+
+}
+
+.small-box{
+    background-color: grey;
+    padding-top: 7px;
+    height:30px;
+    width:50px;
+    border-radius: 5px;
+    margin-right:8px;
+}
+.small-box2{
+    background-color: grey;
+    padding-top: 7px;
+    height:30px;
+    width:60px;
+    border-radius: 5px;
+    margin-right:8px;
+}
+
+.small-head{
+    font-size: 15px;
+    color: white;
+    text-align: center;
+}
+
+.mid-heading{
+    color:white;
+    font-size:12px;
+    padding-top:20px;
+}
+
+.bg-pyar{
+    background-image: url(images/pyarposter.jpeg);
+    height:210px;
+    width:px;
+    background-size: cover;
+}
+
+.bg-indian{
+    background-image: url(images/poster.jpg);
+    height:210px;
+    width:px;
+    background-size: cover;
+}
+
+.bg-maha{
+    background-image: url(images/4pso.avif);
+    height:210px;
+    width:px;
+    background-size: cover;
+}
+
+
+.size{
+    height: 250px;
+}
+
+.mains{
+    background-color:black;
+    white-space: nowrap;
+    overflow-x: auto;
+    overflow-y: hidden;
+    margin:0px;
+}
+
+.child{
+    width:200px;
+    height:250px;
+    background-color: black;
+    margin:10px;
+    display: inline-block;
+    margin-top: 0px;
+}
+
+.cardd{
+    height:230px;
+    width:350px;
+    background: rgb(2,0,36);
+    background: linear-gradient(129deg, rgba(2,0,36,1) 0%, rgba(115,115,222,0.7731137673060099) 47%, rgba(255,0,103,0.52311376730601) 100%);
+    border-radius: 10px;
+    margin-right: 20px;
+}
+
+.card-h{
+    font-weight: bold;
+    color:white;
+    font-size:23px;
+    margin-left:20px;
+    padding-top:30px;
+}
+
+.card-p{
+    color: grey;
+    font-size:18px;
+    margin-left:20px;
+    margin-right:20px;
+    padding-top: 10px;
+
+}
+
+.resons{
+    font-weight: bold;
+    color:white;
+    margin-top:20px;
+    margin-bottom:10px;
+}
+
+.footer1{
+    margin-top:50px;
+    color:white;
+    font-size:20px;
+}
+
+.down{
+    height:50px;
+    width:650px;
+    margin-right:20px;
+}
+
+.sbtn{
+    height:50px;
+    width:120px;
+    color:beige;
+    background-color: red;
+    border-radius: 5px;
+    border:none;
+
+
+
+}
+
+.end{
+    text-align: center;
+    color:white;
+    font-size:15px;
+    margin-top:100px;
+    padding-bottom: 50px;
+
+}
+.bgunion{
+    background-image: url(images/posterunion.jpeg);
+    height:210px;
+    width:px;
+    background-size: cover;
+
+}
+
+.bgmeg{
+    background-image: url(images/megposter.jpeg);
+    height:210px;
+    width:px;
+    background-size: cover;
+
+}
+.bgraja{
+    background-image: url(images/mahaposterraja.webp);
+    height:210px;
+    width:px;
+    background-size: cover;
+
+}
+
+.bgdua{
+    background-image: url(images/dposter.jpeg);
+    height:210px;
+    width:px;
+    background-size: cover;
+
+}
+.bgin{
+    background-image: url(images/inc\ poster.jpg);
+    height:210px;
+    width:px;
+    background-size: cover;
+
+}
